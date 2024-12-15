@@ -30,10 +30,10 @@ const FAIXAS_INSS: FaixaImposto[] = [
 
 const FAIXAS_IRRF: FaixaImposto[] = [
     { limite: 2259.20, aliquota: 0, deducao: 0 },
-    { limite: 2826.65, aliquota: 7.5, deducao: 158.40 },
-    { limite: 3751.05, aliquota: 15.0, deducao: 370.40 },
-    { limite: 4664.68, aliquota: 22.5, deducao: 651.73 },
-    { limite: Infinity, aliquota: 27.5, deducao: 884.96 },
+    { limite: 2826.65, aliquota: 7.5, deducao: 169.44 },
+    { limite: 3751.05, aliquota: 15.0, deducao: 381.44 },
+    { limite: 4664.68, aliquota: 22.5, deducao: 662.77 },
+    { limite: Infinity, aliquota: 27.5, deducao: 896.00 },
 ];
 
 // Função auxiliar para arredondar com precisão específica
